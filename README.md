@@ -9,12 +9,7 @@ Freelance developer. Alongside client work, I build side projects. The main one 
 ### Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,ts,js,react,electron,nodejs,postgres,docker,jenkins,git,githubactions,bash,linux&perline=8" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-certified-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Solutions Architect Associate" />
-  <img src="https://img.shields.io/badge/HashiCorp_Terraform_Associate-certified-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,ts,js,react,electron,nodejs,postgres,docker,jenkins,git,githubactions,aws,bash,linux&perline=8" alt="Tech stack" />
 </p>
 
 <p align="center">
