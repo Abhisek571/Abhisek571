@@ -17,8 +17,6 @@ Freelance developer. Alongside client work, I build side projects. The main one 
   <img src="https://img.shields.io/badge/HashiCorp_Terraform_Associate-certified-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate" />
 </p>
 
-### GitHub stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek571&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
