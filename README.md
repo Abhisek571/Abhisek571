@@ -30,7 +30,7 @@ Freelance developer. Alongside client work, I build side projects. The main one 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhisek571/Abhisek571/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Abhisek571/Abhisek571/output/github-snake.svg" alt="" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhisek571/Abhisek571/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Abhisek571/Abhisek571/output/pacman-contribution-graph.svg" alt="" />
   </picture>
 </p>
