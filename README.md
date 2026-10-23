@@ -20,12 +20,7 @@ Freelance developer. Alongside client work, I build side projects. The main one 
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhisek571&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek571&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhisek571&theme=github-dark-blue&hide_border=true&hide_current_streak=true" alt="" />
 </p>
 
 <p align="center">
