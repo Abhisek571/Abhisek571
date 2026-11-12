@@ -4,7 +4,7 @@
 
 </div>
 
-Freelance developer. Alongside client work, I build side projects. The main one right now is [**Wordwarden**](https://github.com/Abhisek571/wordwarden), a private, on-device grammar checker in Rust and WebAssembly.
+Freelance developer. Alongside client work, I build side projects on stuff i like.
 
 ### Tech I work with
 
